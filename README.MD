@@ -96,14 +96,14 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       width=80 
       src="https://media.licdn.com/dms/image/C4D03AQH7huovaqZ4gw/profile-displayphoto-shrink_800_800/0/1605703698049?e=1727308800&v=beta&t=ICXSPPBSSJnUAHL-CilPlM_GrD5aJ8VuRzTWEoA6O1c"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspJoandson Silva<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/joandson-silva">
     GitHub</a>&nbsp;|&nbsp;
     <a href="www.linkedin.com/in/
 felipe-exe">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
+    <a href="https://www.instagram.com/sr_joandson.exe/">
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
@@ -112,4 +112,4 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Joandson Silva](https://github.com/JoandsonSilva)
