@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
+    <https://github.com/JoandsonSilva/prompts-for-article-generate-by-ia/blob/main/.github/assets/A%20Arte%20da%20Anima%C3%A7%C3%A3o%20com%20CSS%20T%C3%A9cnicas%20Avan%C3%A7adas%20para%20Designers%20Web%20(1).png?raw=true">
 </p>
 
 
@@ -32,13 +32,13 @@
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
 
-<a href="https://web.dio.me/articles/diretivas-estruturais-versus-diretivas-de-atributo-qual-usar-no-angular?back=%2Farticles&page=1&order=oldest#state=044ab194-1e3a-4b8e-95fe-c0f6b3b5260e&session_state=efdc9591-d6fe-4d79-ae97-e58af45061da&code=5ac231e4-c722-46c3-bb7f-32ce5363fb78.efdc9591-d6fe-4d79-ae97-e58af45061da.a889d5a2-0d02-46df-83a5-28a1b4ac39ab" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
+<a href="https://web.dio.me/articles/a-arte-da-animacao-com-css-tecnicas-avancadas-para-designers-web?back=%2Farticles&open-modal=true&page=1&order=oldest" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) - para título e conteúdo
 - [Lexica.art](https://lexica.art/) - para gerar imagens
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) - Para formatação de banners e Layouts
+- [Canva](https://www.canva.com/) - Para formatação de banners e Layouts
 
 ## 📄 Prompts e ferramentas
 
@@ -55,7 +55,7 @@ Lexica.art：
 
 - No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
 
-• Angular
+•CSS
 
 
 
@@ -67,6 +67,21 @@ Lexica.art：
 ## 📚 Materiais
 
 - prompts utilizados
+- Comporte-se como um escritor de artigos tech front-end e escreva a partir das regras abaixo:
+{REGRAS}
+>No máximo 5 linhas por blocos de explicação
+>Títulos criativos
+>Ferramentas que utilizou
+explique de maneira informal, como se eu fosse uma criança de 14 anos
+> Os blocos que serão criados estão abaixo:
+Blocos do artigo
+- O que é o motion no css
+- O que podemos construir com movimento em css
+- Cite exemplos de animações no css?
+- Faça um call to action para as minhas redes sociais: instagram: @sr_joandson
+- Coloque 3 hashtags que façam sentido
+
+Conteúdo gerado por: Chatgpt e revisões humanas
 
 ## 🛠️ Instruções de execução
 
@@ -79,7 +94,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://media.licdn.com/dms/image/C4D03AQH7huovaqZ4gw/profile-displayphoto-shrink_800_800/0/1605703698049?e=1727308800&v=beta&t=ICXSPPBSSJnUAHL-CilPlM_GrD5aJ8VuRzTWEoA6O1c"
     />
     <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
     &nbsp&nbsp&nbsp
