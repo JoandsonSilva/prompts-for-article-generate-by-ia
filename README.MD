@@ -14,7 +14,7 @@
 
 <p align="center">
   <img 
-    src=".github/assets/preview.png"
+    src="https://github.com/JoandsonSilva/prompts-for-article-generate-by-ia/blob/main/.github/assets/A%20Arte%20da%20Anima%C3%A7%C3%A3o%20com%20CSS%20T%C3%A9cnicas%20Avan%C3%A7adas%20para%20Designers%20Web%20(1).png?raw=true"
     width="400"  
   />
 </p>
